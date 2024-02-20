@@ -34,14 +34,14 @@
 
                     <StackPanel Grid.Column="1" Margin="3,0,0,0">
                         <TextBlock Text="Homelands of America's International Students" FontSize="35" FontWeight="Bold" Foreground="Black"/>
-                        <TextBlock Text="International enrollment in U.S. higher education in the 2022/23 academic" FontSize="20"/>
+                        <TextBlock Text="International enrollment in U.S. higher education in the 2022–23 academic year." FontSize="20"/>
                     </StackPanel>
 
                     <StackPanel Grid.Row="1" Grid.ColumnSpan="2" Orientation="Horizontal" Margin="20,5,0,5">
                         <Rectangle Height="12" Width="30" RadiusX="5" RadiusY="5" Fill="#6987FF" />
-                        <TextBlock Text="Academics of 2022/23" FontSize="15" Margin="7,0,0,0" />
+                        <TextBlock Text="Academics of 2022–23" FontSize="15" Margin="7,0,0,0" />
                         <Rectangle Height="12" Width="30" RadiusX="5" RadiusY="5" Fill="#FF6B8F" Margin="7,0,0,0" />
-                        <TextBlock Text="Change from 2021/22" Margin="7,0,0,0" FontSize="15"/>
+                        <TextBlock Text="International students Change from 2021–22 academic year" Margin="7,0,0,0" FontSize="15"/>
                     </StackPanel>
                 </Grid>
             </chart:SfChart.Header>
