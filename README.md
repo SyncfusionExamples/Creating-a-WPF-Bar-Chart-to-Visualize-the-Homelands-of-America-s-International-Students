@@ -19,4 +19,4 @@ During the COVID-19 pandemic, colleges and universities in the U.S. witnessed a 
 ### Path too long exception:
 If you encounter a path too long exception when building this example project, close Visual Studio and rename the repository to a shorter name before building the project.
 
-For a step-by-step procedure, refer to the [Homelands of America's International Students blog]().
+For a step-by-step procedure, refer to the [Homelands of America's International Students blog](https://www.syncfusion.com/blogs/post/wpf-bar-chart-us-students.aspx).
